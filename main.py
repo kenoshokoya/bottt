@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import requests
 
-TOKEN = 'MTI2NDk2Mzk2ODM2MzkyNTY2OA.G0KQDL.rnQiGryq2u96xdm0Ad6AZt3jtE5ZRcuxisf7m4'
+TOKEN = 'MTI2NDk2Mzk2ODM2MzkyNTY2OA.GlINUL.ty5PaCvaoACGtX0_Lg57UyGCHQg3sC9cMLMzKc'
 
 intents = discord.Intents.default()
 intents.message_content = True
